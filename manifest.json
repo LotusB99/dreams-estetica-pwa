@@ -1,0 +1,25 @@
+{
+  "id": "https://dreamestetic.blogspot.com/",
+  "name": "Dreams Estética",
+  "short_name": "Dreams",
+  "description": "Dreams Centro Estético",
+  "start_url": "https://dreamestetic.blogspot.com/",
+  "scope": "https://dreamestetic.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#FDEBF3",
+  "theme_color": "#F3B6CF",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
